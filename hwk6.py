@@ -704,9 +704,9 @@ def run():
 	graph.append(dic)
 
 	# Graph the four curves
-	# comp182.plot_lines(graph, "Accuracy of Part-of-speech Tagging with HMM", "Percentage of training data",
+	# helper.plot_lines(graph, "Accuracy of Part-of-speech Tagging with HMM", "Percentage of training data",
 	# 				"Accuracy", ["Experiment 1", "Experiment 2", "Experiment 3", "Experiment 4"],
-	# 				"D:\User\Documents\College\Spring 2017\COMP 182\HW6\Accuracy")
+	# 				"D:\User\Documents\Part-of-speech-Tagging\Accuracy")
 
 	return graph
 
