@@ -1,13 +1,5 @@
-"""
-COMP 182 Homework 6 Solutions
-Name: Yanjun Chen (Anthony)
-NetID: yc81
-"""
-
 import math
 from collections import defaultdict
-# Local file for graphing:
-# import comp182
 
 
 ######################       PROVIDED CODE       ##########################
