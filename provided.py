@@ -1,7 +1,3 @@
-"""
-COMP 182 Homework 6 Solutions
-"""
-
 import math
 import numpy
 from collections import defaultdict
