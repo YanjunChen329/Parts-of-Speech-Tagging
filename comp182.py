@@ -1,5 +1,5 @@
 """
-This module provides a number of useful functions for COMP 182, including
+This module provides a number of useful functions, including
 manipulating graphs, plotting data, and timing functions.
 """
 
